@@ -1,13 +1,8 @@
 # Section A10: Baby Language Models
 
-<div style="margin-left: 40px;">
-
-**Name:** Longhao Lin  
-**Email:** lol008@ucsd.edu  
-**Mentor:** Dr. Alex Warstadt
-
-</div>
----
+> **Name:** Longhao Lin  
+> **Email:** lol008@ucsd.edu  
+> **Mentor:** Dr. Alex Warstadt
 
 ## Quarter 1 Reflection
 
